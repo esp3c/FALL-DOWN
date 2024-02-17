@@ -7,3 +7,9 @@ ddos tool by R.S.C
     ██      ████  ██ ██   ██ ██          ██      ██   ██ ██   ██ ████  ██ ██   ██ 
      ██████  ██████  ██████  ███████     ███████ ██   ██ ██   ██  ██████  ██   ██ 
                                                                                   
+git clone https://github.com/esp3c/FALL-DOWN.git
+
+
+cd FALL-DOWN
+
+python3 dos_attack.py
